@@ -1,16 +1,27 @@
-## Hi there 👋
+## Stats 🎉
 
-<!--
-**thirdlf03/thirdlf03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+    <a href="https://github.com/naoido">
+        <img height=200 align="center" src="https://git-hub-readme-stats-l2xb.vercel.app/api?username=thirdlf03&bg_color=40,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&count_private=true"/>
+    </a>
+    <a href="https://github.com/naoido">
+        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thirdlf03&bg_color=40,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&count_private=true&hide=css,html,vue,scss,ejs"/>
+    </a>
+</p>
 
-Here are some ideas to get you started:
+## Skills ☄️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+    <h3 align="center">Languages</h3>
+    <p  align="center">
+        <a href="https://skillicons.dev">
+            <img height=300 src="https://skillicons.dev/icons?i=python,c++,html,mysql,spring,linux,docker&perline=5&theme=dark">
+        </a>
+    </p>
+    <h3 align="center">Editor / IDE</h3>
+    <p align="center">
+        <a href="https://skillicons.dev">
+            <img height=100 src="https://skillicons.dev/icons?i=vscode&theme=dark">
+        </a>
+    </p>
+</p>
