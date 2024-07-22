@@ -2,10 +2,10 @@
 
 <p align="center">
     <a href="https://github.com/thirdlf03">
-        <img height=200 align="center" src="https://git-hub-readme-stats-l2xb.vercel.app/api?username=thirdlf03&bg_color=50,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&count_private=true"/>
+        <img height=180 align="center" src="https://git-hub-readme-stats-l2xb.vercel.app/api?username=thirdlf03&bg_color=50,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&count_private=true"/>
     </a>
     <a href="https://github.com/thirdlf03">
-        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thirdlf03&bg_color=50,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&count_private=true&hide=css,html,vue,scss,ejs"/>
+        <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thirdlf03&bg_color=50,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&count_private=true&hide=css,html,vue,scss,ejs"/>
     </a>
 </p>
 
