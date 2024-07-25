@@ -25,3 +25,11 @@
         </a>
     </p>
 </p>
+
+## Strike
+
+<p align="center">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=thirdlf03&theme=darcula&hide_border=true&background=FFFF0000">
+  <br>
+  <br>
+</p>
