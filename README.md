@@ -1,3 +1,5 @@
+<img src="github-user-contribution.svg"></img>
+
 ## Stats 🎉
 
 <p align="center">
