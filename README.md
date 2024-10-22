@@ -1,17 +1,17 @@
 <img src="github-user-contribution.svg"></img>
 
-## Stats 🎉
+## Stats
 
 <p align="center">
     <a href="https://github.com/thirdlf03">
-        <img height=180 align="center" src="https://git-hub-readme-stats-l2xb.vercel.app/api?username=thirdlf03&bg_color=50,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&count_private=true"/>
+        <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=thirdlf03&show_icons=true&cache_seconds=86400&theme=prussian">
     </a>
     <a href="https://github.com/thirdlf03">
-        <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thirdlf03&bg_color=50,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&count_private=true&hide=css,html,vue,scss,ejs"/>
+        <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thirdlf03&show_icons=true&cache_seconds=86400&theme=prussian">
     </a>
 </p>
 
-## Skills ☄️
+## Skills
 
 <p align="center">
     <h3 align="center">Languages</h3>
@@ -26,12 +26,4 @@
             <img height=200 src="https://skillicons.dev/icons?i=fastapi,pytorch,opencv,anaconda,vscode,linux,docker,mysql&perline=5&theme=dark">
         </a>
     </p>
-</p>
-
-## Strike
-
-<p align="center">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=thirdlf03&theme=darcula&hide_border=true&background=FFFF0000">
-  <br>
-  <br>
 </p>
