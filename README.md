@@ -11,19 +11,3 @@
     </a>
 </p>
 
-## Skills
-
-<p align="center">
-    <h3 align="center">Languages</h3>
-    <p  align="center">
-        <a href="https://skillicons.dev">
-            <img height=90 src="https://skillicons.dev/icons?i=python,c,cpp,html,css&perline=5&theme=dark">
-        </a>
-    </p>
-    <h3 align="center">Frameworks and Editor / IDE, etc</h3>
-    <p align="center">
-        <a href="https://skillicons.dev">
-            <img height=200 src="https://skillicons.dev/icons?i=fastapi,pytorch,opencv,anaconda,vscode,linux,docker,mysql&perline=5&theme=dark">
-        </a>
-    </p>
-</p>
