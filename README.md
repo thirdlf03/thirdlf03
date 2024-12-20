@@ -7,7 +7,7 @@ src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmphYXdldHM5dWw1Z213cnBzN
 
 ## Stats
 <div align="center">
-<img height=800 src="Screenshot_197.png">
+<img src="Screenshot_197.png">
 </div>
 
 ## Trophy
