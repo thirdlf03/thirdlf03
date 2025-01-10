@@ -10,5 +10,8 @@ src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmphYXdldHM5dWw1Z213cnBzN
 <img src="Screenshot_197.png">
 </div>
 
+## Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=thirdlf03)](https://git.io/streak-stats)
+
 ## Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=thirdlf03&theme=oldie)](https://github.com/ryo-ma/github-profile-trophy)
