@@ -11,7 +11,7 @@ src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmphYXdldHM5dWw1Z213cnBzN
 </div>
 
 ## Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=thirdlf03)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-ten-lyart.vercel.app?user=thirdlf03&theme=algolia&card_width=920&card_height=390)](https://git.io/streak-stats)
 
 ## Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=thirdlf03&theme=oldie)](https://github.com/ryo-ma/github-profile-trophy)
