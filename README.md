@@ -16,38 +16,14 @@
   <img height="500" src="giphy.gif"></img>
 </div>
 
-# Stats📈
-<table>
-  <tr>
-    <td>
-      <h3>📢 Blog</h3>
-      <!-- BLOG-POST-LIST:START -->
-- [React + Storybook で作る、保守性を意識したフロントエンド開発環境](https://zenn.dev/thirdlf/articles/15-zenn-react-router-storybook)
-- [GitHubのストリーク50日達成した話](https://zenn.dev/thirdlf/articles/13-zenn-github-streak-50)
-- [ラズパイで自宅サーバー入門してみた](https://zenn.dev/thirdlf/articles/12-zenn-home-server-begin)
-- [uvを布教したい!!!](https://zenn.dev/thirdlf/articles/11-zenn-uv-tuyotuyo)
-- [ハッカソンで優勝する方法についての考察](https://zenn.dev/thirdlf/articles/09-zenn-think-hackson)
+# Blog📕
+<!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-    </td>
-    <td>
-      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-        <img src="https://raw.githubusercontent.com/thirdlf03/thirdlf03/main/profile-summary-card-output/algolia/0-profile-details.svg">
-      </a>
-      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-        <img src="https://raw.githubusercontent.com/thirdlf03/thirdlf03/main/profile-summary-card-output/algolia/1-repos-per-language.svg">
-      </a>
-      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-        <img src="https://raw.githubusercontent.com/thirdlf03/thirdlf03/main/profile-summary-card-output/algolia/2-most-commit-language.svg">
-      </a>
-      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-        <img src="https://raw.githubusercontent.com/thirdlf03/thirdlf03/main/profile-summary-card-output/algolia/3-stats.svg">
-      </a>
-      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-        <img src="https://raw.githubusercontent.com/thirdlf03/thirdlf03/main/profile-summary-card-output/algolia/4-productive-time.svg">
-      </a>
-    </td>
-  </tr>
-</table>
+
+# Stats📈
+[![](https://raw.githubusercontent.com/thirdlf03/thirdlf03/main/profile-summary-card-output/algolia/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/thirdlf03/thirdlf03/main/profile-summary-card-output/algolia/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/thirdlf03/thirdlf03/main/profile-summary-card-output/algolia/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/thirdlf03/thirdlf03/main/profile-summary-card-output/algolia/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/thirdlf03/thirdlf03/main/profile-summary-card-output/algolia/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
 # Trophy🏆
