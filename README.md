@@ -21,10 +21,11 @@
 [![](https://raw.githubusercontent.com/thirdlf03/thirdlf03/main/profile-summary-card-output/algolia/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/thirdlf03/thirdlf03/main/profile-summary-card-output/algolia/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/thirdlf03/thirdlf03/main/profile-summary-card-output/algolia/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/thirdlf03/thirdlf03/main/profile-summary-card-output/algolia/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-# Streak🔥
-[![GitHub Streak](https://streak-stats.demolab.com/?user=thirdlf03&theme=algolia&card_width=900&card_height=390)](https://git.io/streak-stats)
-
 # Trophy🏆
 ![](https://github-profile-trophy.vercel.app/?username=thirdlf03&theme=oldie)
 
 # Snake🐍
+![Snake animation Contribution Graph](https://raw.githubusercontent.com/thirdlf03/thirdlf03/output/github-contribution-grid-snake.svg)
+
+# Streak🔥
+[![GitHub Streak](https://streak-stats.demolab.com/?user=thirdlf03&theme=algolia&card_width=900&card_height=390)](https://git.io/streak-stats)
