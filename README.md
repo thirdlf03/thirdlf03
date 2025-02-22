@@ -17,9 +17,33 @@
 </div>
 
 # Stats📈
-[![](https://raw.githubusercontent.com/thirdlf03/thirdlf03/main/profile-summary-card-output/algolia/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/thirdlf03/thirdlf03/main/profile-summary-card-output/algolia/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/thirdlf03/thirdlf03/main/profile-summary-card-output/algolia/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/thirdlf03/thirdlf03/main/profile-summary-card-output/algolia/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/thirdlf03/thirdlf03/main/profile-summary-card-output/algolia/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<table>
+  <tr>
+    <td>
+      <h3>📢 Blog</h3>
+      <!-- BLOG-POST-LIST:START -->
+      <!-- BLOG-POST-LIST:END -->
+    </td>
+    <td>
+      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+        <img src="https://raw.githubusercontent.com/thirdlf03/thirdlf03/main/profile-summary-card-output/algolia/0-profile-details.svg">
+      </a>
+      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+        <img src="https://raw.githubusercontent.com/thirdlf03/thirdlf03/main/profile-summary-card-output/algolia/1-repos-per-language.svg">
+      </a>
+      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+        <img src="https://raw.githubusercontent.com/thirdlf03/thirdlf03/main/profile-summary-card-output/algolia/2-most-commit-language.svg">
+      </a>
+      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+        <img src="https://raw.githubusercontent.com/thirdlf03/thirdlf03/main/profile-summary-card-output/algolia/3-stats.svg">
+      </a>
+      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+        <img src="https://raw.githubusercontent.com/thirdlf03/thirdlf03/main/profile-summary-card-output/algolia/4-productive-time.svg">
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 # Trophy🏆
 ![](https://github-profile-trophy.vercel.app/?username=thirdlf03&theme=oldie)
