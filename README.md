@@ -1,4 +1,13 @@
-
+<p align="center">
+  <em>
+    "hello! i'm thirdlf !"
+    <br>
+    <a href="https://pages.thirdlf03.com">https://pages.thirdlf03.com</a>
+  </em>
+</p>
+<div align="center">
+  <img height="500" src="giphy.gif"></img>
+</div>
 
 # Stats📈
 
