@@ -18,11 +18,11 @@
 
 # Blog📕
 <!-- BLOG-POST-LIST:START -->
+- [Connect-goとBufを使って、GoでgRPC入門してみよう](https://zenn.dev/thirdlf/articles/27-zenn-grpc-golang)
 - [uv + ruff + tyを使ったモダンな環境でdiscord bot作ってみよう](https://zenn.dev/thirdlf/articles/26-zenn-uv-discordpy)
 - [NotebookLMを使った、Podcast勉強法](https://zenn.dev/thirdlf/articles/24-zenn-notebooklm-learn)
 - [shortcatとvimium, vim&lpar;neovim&rpar;で脱マウス生活](https://zenn.dev/thirdlf/articles/22-zenn-not-use-mouse)
 - [Cloudflare R2から取ってきた画像をwasm&lpar;Rust&rpar;で加工する](https://zenn.dev/thirdlf/articles/19-zenn-wasm-image-process)
-- [[wip]Rust勉強メモ](https://zenn.dev/thirdlf/articles/18-zenn-rust-benkyo-memo)
 <!-- BLOG-POST-LIST:END -->
 
 # Stats📈
