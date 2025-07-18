@@ -18,11 +18,11 @@
 
 # Blog📕
 <!-- BLOG-POST-LIST:START -->
+- [GitHubのプロフィールをデコろう](https://zenn.dev/thirdlf/articles/31-zenn-github-profile-deco)
 - [生成AI？うるせぇVimだVim！Vimを使ってコードを書くんだ！！！](https://zenn.dev/thirdlf/articles/30-zenn-vim-vim-vim)
 - [Connect-goとBufを使って、GoでgRPC入門してみよう](https://zenn.dev/thirdlf/articles/27-zenn-grpc-golang)
 - [uv + ruff + tyを使ったモダンな環境でdiscord bot作ってみよう](https://zenn.dev/thirdlf/articles/26-zenn-uv-discordpy)
 - [NotebookLMを使った、Podcast勉強法](https://zenn.dev/thirdlf/articles/24-zenn-notebooklm-learn)
-- [shortcatとvimium, vim&lpar;neovim&rpar;で脱マウス生活](https://zenn.dev/thirdlf/articles/22-zenn-not-use-mouse)
 <!-- BLOG-POST-LIST:END -->
 
 # Stats📈
