@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/thirdlf03/thirdlf03/main/profile-summary-card-output/noctis_minimus/4-productive-time.svg)
+```
+
+    
