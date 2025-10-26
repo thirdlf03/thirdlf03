@@ -18,11 +18,11 @@
 
 # Blog📕
 <!-- BLOG-POST-LIST:START -->
+- [Vue Fes Japan 2025参加してきた！](https://zenn.dev/thirdlf/articles/37-zenn-vue-fes)
 - [GitHub Copilot CLI入門](https://zenn.dev/thirdlf/articles/36-zenn-github-copilot-cli)
 - [株式会社Progateの5daysインターンに参加してきた！](https://zenn.dev/thirdlf/articles/34-zenn-progate-intern)
 - [GitHubのプロフィールをデコろう](https://zenn.dev/thirdlf/articles/31-zenn-github-profile-deco)
 - [生成AI？うるせぇVimだVim！Vimを使ってコードを書くんだ！！！](https://zenn.dev/thirdlf/articles/30-zenn-vim-vim-vim)
-- [Connect-goとBufを使って、GoでgRPC入門してみよう](https://zenn.dev/thirdlf/articles/27-zenn-grpc-golang)
 <!-- BLOG-POST-LIST:END -->
 
 # Stats📈
